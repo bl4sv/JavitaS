@@ -1,2 +1,3 @@
-# JavitaS
-En este repositorio pueden ver encontrar un miniproyecto de js
+## JavitaS
+
+###Aprendiendo javascript para crear proximamente una paginita Online :D
