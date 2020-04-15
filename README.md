@@ -1,3 +1,4 @@
 ## JavitaS
 
-###Aprendiendo javascript para crear proximamente una paginita Online :D
+## Aprendiendo CSS y HTML 
+## El codigo que se encuentra aqui es el un register y login 
